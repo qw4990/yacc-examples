@@ -1,0 +1,6 @@
+sqrt(2);
+x = 23;
+y = sqrt(x);
+x-y^2;
+exp(log(2333));
+log(exp(12));

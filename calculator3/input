@@ -1,0 +1,6 @@
+a=3;
+b=a;
+ab=a*b;
+ab;
+abc=2*(a^b*ab)^2;
+abc;
